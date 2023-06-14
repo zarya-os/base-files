@@ -1,0 +1,13 @@
+PRETTY_NAME="zarya 44"
+NAME="zarya"
+VERSION_ID="44"
+VERSION="44 (Lunar Lobster)"
+VERSION_CODENAME=lunar
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.github.com/zarya-os"
+SUPPORT_URL="https://www.github.com/zarya-os"
+BUG_REPORT_URL="https://www.github.com/zarya-os"
+PRIVACY_POLICY_URL="https://www.github.com/zarya-os"
+UBUNTU_CODENAME=lunar
+LOGO=zarya-logo
