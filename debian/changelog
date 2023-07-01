@@ -1,3 +1,9 @@
+base-files (12.3zarya2) lunar; urgency=medium
+
+  * /etc/issue{,.net}, /etc/{lsb,os}-release: Update os-release
+
+ -- Muqtadir <muqtadir5555@gmail.com>  Sat, 02 Jul 2023 12:43:21 +0530
+
 base-files (12.3zarya1) lunar; urgency=medium
 
   * /etc/issue{,.net}, /etc/{lsb,os}-release: Prepare for 44 release
